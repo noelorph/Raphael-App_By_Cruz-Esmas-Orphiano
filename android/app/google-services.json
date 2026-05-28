@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344916539085",
+    "project_id": "raphael-7b973",
+    "storage_bucket": "raphael-7b973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344916539085:android:3ca0a7c8a93e0d01025b84",
+        "android_client_info": {
+          "package_name": "com.example.raphael"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMc8G5qG7REkpUE4QLnw7XdEvxPu9BC2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
